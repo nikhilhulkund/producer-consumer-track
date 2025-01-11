@@ -31,8 +31,8 @@ Before you begin, make sure you have the following installed on your system:
 ### Steps to Run the Application
  1. **Clone the repository to your local machine:**
   ``` 
-git clone https://github.com/yourusername/message-driven-application.git
-cd message-driven-application
+git clone https://github.com/nikhilhulkund/producer-consumer-track.git
+cd producer-consumer-track
   ```
  2. **Build the project using Maven:**
 ``` 
